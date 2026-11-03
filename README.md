@@ -9,7 +9,7 @@ cluster.
 
 | File | Used by |
 |---|---|
-| `images/pages/back-soon.png` | the error, maintenance and offline pages in `kubernetes-metadata/pages/` |
+| `images/pages/page-unavailable.png` | the error, maintenance and offline pages in `kubernetes-metadata/pages/` |
 
 The URLs are written into those pages. Don't move, rename or delete a file without first
 changing every page that uses it, or those pages lose the file the moment this branch changes.
